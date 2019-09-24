@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.9.24)  24 SEP 2019 14:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.9.24)  24 SEP 2019 14:48
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/repo/self/resume/resume.tex
-(c:/repo/self/resume/resume.tex
+**c:/repo/self/cv/resume.tex
+(c:/repo/self/cv/resume.tex
 LaTeX2e <2018-12-01>
 (c:/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -1089,7 +1089,7 @@ Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 LaTeX Warning: Unused global option(s):
     [letterpage].
 
-(c:/repo/self/resume/resume.aux)
+(c:/repo/self/cv/resume.aux)
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
@@ -1206,7 +1206,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 108.
 LaTeX Info: Redefining \pageref on input line 108.
 LaTeX Info: Redefining \nameref on input line 108.
- (c:/repo/self/resume/resume.out) (c:/repo/self/resume/resume.out)
+ (c:/repo/self/cv/resume.out) (c:/repo/self/cv/resume.out)
 \@outlinefile=\write4
 \openout4 = `resume.out'.
 
@@ -1295,7 +1295,7 @@ Overfull \hbox (27.7087pt too wide) in paragraph at lines 113--774
 {c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 775.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 775.
- (c:/repo/self/resume/resume.aux)
+ (c:/repo/self/cv/resume.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 775.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 775.
 Package rerunfilecheck Info: File `resume.out' has not changed.
@@ -1304,14 +1304,14 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 775.
  ) 
 Here is how much of TeX's memory you used:
  25555 strings out of 492609
- 441913 string characters out of 6132833
+ 441861 string characters out of 6132833
  535835 words of memory out of 5000000
  28983 multiletter control sequences out of 15000+600000
  74403 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,54p,989b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,6n,54p,985b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2019/texmf-dist/fonts/type1/typoland/carlito/Carlito-Bold.pfb><c:/texlive/2019/texmf-dist/fonts/type1/typoland/carlito/Carlito.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on c:/repo/self/resume/resume.pdf (1 page, 122541 bytes).
+Output written on c:/repo/self/cv/resume.pdf (1 page, 122541 bytes).
 PDF statistics:
  42 PDF objects out of 1000 (max. 8388607)
  33 compressed objects within 1 object stream
