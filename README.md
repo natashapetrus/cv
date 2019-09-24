@@ -1,6 +1,11 @@
-# Resume
+# CV
 
-My professional resume, written in TeX.
+My curriculum vitae, written in TeX.
+
+##### "Forked" from https://github.com/natashapetrus/resume
+
+* Run `git remote add upstream https://github.com/natashapetrus/resume` to allow pulling changes from the original repository
+* Run `git pull upstream master` to pull the changes
 
 ### Current Setup
 
