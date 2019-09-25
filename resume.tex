@@ -35,13 +35,22 @@ right=0.85in]{geometry}
 % COLOR PACKAGE & PREDEFINED COLORS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage[dvipsnames]{xcolor}
+\definecolor{white-smoke}{HTML}{F2F7F8}
+\definecolor{arsenic}{HTML}{40424A}
+\definecolor{light-sky-blue}{HTML}{87CBFF}
+\pagecolor{white-smoke}
+\AtBeginDocument{\color{arsenic}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % OTHER PACKAGES
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{verbatim} % for multi-line comments
 \usepackage{graphicx} % for rotating text boxes
-\usepackage{tikz} % for drawing shapes
+\usepackage{tikz} % for drawing shapes & highlights
+\usepackage{soul} % for text highlights/underlines
+\setul{-0.5ex}{1ex} % set underline dimension
+\setuloverlap{3pt} % how much line is sticking out
+\setulcolor{light-sky-blue}
 \usepackage{amssymb,amsmath}
 \usepackage{mathabx} % for math symbols
 \usepackage{ifxetex,ifluatex}
@@ -120,7 +129,7 @@ right=0.85in]{geometry}
 % INTENTIONALLY LEFT BLANK
 \end{minipage}
 \:\:\:\:\: % space between minipages
-\begin{minipage}{0.4\linewidth}
+\begin{minipage}{0.33\linewidth}
 \raggedleft
 \vspace{5px} % for formatting purpose
 natashapetr.us\enspace\faGlobe\\
@@ -128,13 +137,13 @@ hire@npetr.us\enspace\faPaperPlane\\
 linkedin.npetr.us\enspace\faLinkedin\\
 github.npetr.us\enspace\faGithubAlt
 \end{minipage}
-\begin{minipage}{0.01\linewidth}
-  % INTENTIONALLY LEFT BLANK
-\end{minipage}
 \:\:\:\:\: % space between minipages
 \begin{minipage}[]{0.2\linewidth}
   \raggedright
-  \includegraphics[width=0.85\linewidth]{assets/images/profile.png}
+  \begin{tikzpicture}
+    \fill[light-sky-blue] (0,2.2) circle (1.2);
+    \includegraphics[width=1\linewidth]{assets/images/profile.png}
+  \end{tikzpicture}
 \end{minipage}
 \vspace*{10px}\\ % space between header and content
 %------------------------------------
@@ -145,9 +154,11 @@ github.npetr.us\enspace\faGithubAlt
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % EDUCATION HISTORY
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\textbf{\fontsize{14px}{1px}\selectfont E D U C A T I O N}\\
-\noindent\rule{2.45in}{0.1pt}
-\vspace{7px}\\
+
+\textbf{\fontsize{14px}{1px}\selectfont
+  \ul{E D U C A T I O N}
+}\\
+\vspace{5px}\\
 \textcolor{gray}{September 2015 - June 2017}\\
 \textbf{\textsf{Seattle University - Seattle, WA}}\\
 \textbf{Bachelor of Science in Electrical Engineering}\\
@@ -217,8 +228,9 @@ github.npetr.us\enspace\faGithubAlt
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % TECHNICAL SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\textbf{\fontsize{14px}{1px}\selectfont S K I L L S}\\
-\noindent\rule{2.45in}{0.1pt}
+\textbf{\fontsize{14px}{1px}\selectfont
+  \ul{S K I L L S}
+}\\
 \vspace{0px}\\
 \begin{minipage}[t]{0.01\linewidth}
 % INTENTIONALLY LEFT BLANK
@@ -549,9 +561,9 @@ VHDL
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % RELEVANT EXPERIENCE
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\textbf{\fontsize{14px}{1px}\selectfont R E L E V A N T \:\:
-E X P E R I E N C E}\\
-\noindent\rule{4.295in}{0.1pt}
+\textbf{\fontsize{14px}{1px}\selectfont
+  \ul{R E L E V A N T \:\: E X P E R I E N C E}
+}\\
 
 %% Geniuslink: Software Engineer
 \vspace{7px}

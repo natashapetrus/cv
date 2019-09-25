@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.9.24)  24 SEP 2019 20:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.9.24)  24 SEP 2019 23:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -398,7 +398,9 @@ Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
  (c:/texlive/2019/texmf-dist/tex/latex/graphics/dvipsnam.def
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
-)) (c:/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
+))
+\GPT@outputbox=\box57
+ (c:/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
 Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks20
 \verbatim@line=\toks21
@@ -421,7 +423,7 @@ Package graphics Info: Driver file: pdftex.def on input line 99.
 \pgfutil@tempdima=\dimen125
 \pgfutil@tempdimb=\dimen126
  (c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box57
+\pgfutil@abb=\box58
  (c:/texlive/2019/texmf-dist/tex/latex/ms/everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 )) (c:/texlive/2019/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (c:/texlive/2019/texmf-dist/tex/generic/pgf/pgf.revision.tex)
@@ -475,7 +477,7 @@ Package: pgfcore 2019/08/03 v3.1.4b (3.1.4b)
  (c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (c:/texlive/2019/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen137
 \pgfmath@count=\count117
-\pgfmath@box=\box58
+\pgfmath@box=\box59
 \pgfmath@toks=\toks29
 \pgfmath@stack@operand=\toks30
 \pgfmath@stack@operation=\toks31
@@ -507,9 +509,9 @@ File: pgfcorepathusage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 \pgf@shorten@start@additional=\dimen155
 ) (c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfpic=\box59
-\pgf@hbox=\box60
-\pgf@layerbox@main=\box61
+\pgfpic=\box60
+\pgf@hbox=\box61
+\pgf@layerbox@main=\box62
 \pgf@picture@serial@count=\count119
 ) (c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2019/08/03 v3.1.4b (3.1.4b)
@@ -537,7 +539,7 @@ File: pgfcoreshade.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 File: pgfcoreimage.code.tex 2019/08/03 v3.1.4b (3.1.4b)
  (c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfexternal@startupbox=\box62
+\pgfexternal@startupbox=\box63
 )) (c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 ) (c:/texlive/2019/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
@@ -548,7 +550,7 @@ File: pgfcorepatterns.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 File: pgfcorerdf.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 ))) (c:/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-\pgfnodeparttextbox=\box63
+\pgfnodeparttextbox=\box64
 ) (c:/texlive/2019/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 ) (c:/texlive/2019/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65.sty
@@ -579,10 +581,10 @@ File: pgflibraryplothandlers.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 \tikz@lastmovetoy=\dimen172
 \tikzleveldistance=\dimen173
 \tikzsiblingdistance=\dimen174
-\tikz@figbox=\box64
-\tikz@figbox@bg=\box65
-\tikz@tempbox=\box66
-\tikz@tempbox@bg=\box67
+\tikz@figbox=\box65
+\tikz@figbox@bg=\box66
+\tikz@tempbox=\box67
+\tikz@tempbox@bg=\box68
 \tikztreelevel=\count123
 \tikznumberofchildren=\count124
 \tikznumberofcurrentchild=\count125
@@ -596,29 +598,40 @@ File: pgfmodulematrix.code.tex 2019/08/03 v3.1.4b (3.1.4b)
 \tikz@expandcount=\count130
  (c:/texlive/2019/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2019/08/03 v3.1.4b (3.1.4b)
-))) (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+))) (c:/texlive/2019/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks34
+\SOUL@lasttoken=\toks35
+\SOUL@cmds=\toks36
+\SOUL@buffer=\toks37
+\SOUL@token=\toks38
+\SOUL@spaceskip=\skip68
+\SOUL@ttwidth=\dimen175
+\SOUL@uldp=\dimen176
+\SOUL@ulht=\dimen177
+) (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
 Package: amssymb 2013/01/14 v3.01 AMS font symbols
  (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
 Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
-\@emptytoks=\toks34
+\@emptytoks=\toks39
 \symAMSa=\mathgroup4
 \symAMSb=\mathgroup5
 LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
 (Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
 )) (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2018/12/01 v2.17b AMS math features
-\@mathmargin=\skip68
+\@mathmargin=\skip69
 
 For additional information on amsmath, use the `?' option.
 (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
  (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
-\@emptytoks=\toks35
-\ex@=\dimen175
+\@emptytoks=\toks40
+\ex@=\dimen178
 )) (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
-\pmbraise@=\dimen176
+\pmbraise@=\dimen179
 ) (c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
@@ -632,9 +645,9 @@ LaTeX Info: Redefining \overline on input line 385.
 LaTeX Info: Redefining \ldots on input line 482.
 LaTeX Info: Redefining \dots on input line 485.
 LaTeX Info: Redefining \cdots on input line 606.
-\Mathstrutbox@=\box68
-\strutbox@=\box69
-\big@size=\dimen177
+\Mathstrutbox@=\box69
+\strutbox@=\box70
+\big@size=\dimen180
 LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
 LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \macc@depth=\count136
@@ -642,21 +655,21 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 \dotsspace@=\muskip10
 \c@parentequation=\count138
 \dspbrk@lvl=\count139
-\tag@help=\toks36
+\tag@help=\toks41
 \row@=\count140
 \column@=\count141
 \maxfields@=\count142
-\andhelp@=\toks37
-\eqnshift@=\dimen178
-\alignsep@=\dimen179
-\tagshift@=\dimen180
-\tagwidth@=\dimen181
-\totwidth@=\dimen182
-\lineht@=\dimen183
-\@envbody=\toks38
-\multlinegap=\skip69
-\multlinetaggap=\skip70
-\mathdisplay@stack=\toks39
+\andhelp@=\toks42
+\eqnshift@=\dimen181
+\alignsep@=\dimen182
+\tagshift@=\dimen183
+\tagwidth@=\dimen184
+\totwidth@=\dimen185
+\lineht@=\dimen186
+\@envbody=\toks43
+\multlinegap=\skip70
+\multlinetaggap=\skip71
+\mathdisplay@stack=\toks44
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
 ) (c:/texlive/2019/texmf-dist/tex/generic/mathabx/mathabx.sty
@@ -904,7 +917,7 @@ LaTeX Font Info:    Redeclaring math symbol \boxdot on input line 688.
 \mayacnta=\count144
 \mayacntb=\count145
 \mayacntc=\count146
-\mayawidth=\dimen184
+\mayawidth=\dimen187
 LaTeX Font Info:    Redeclaring math symbol \intop on input line 753.
 LaTeX Font Info:    Redeclaring math symbol \ointop on input line 760.
 LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 842.
@@ -950,25 +963,25 @@ File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
 )) (c:/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2018/08/11 v1.3c Input encoding file
-\inpenc@prehook=\toks40
-\inpenc@posthook=\toks41
+\inpenc@prehook=\toks45
+\inpenc@posthook=\toks46
 )
    defining Unicode char U+0160 (decimal 352)
  (c:/texlive/2019/texmf-dist/tex/latex/upquote/upquote.sty
 Package: upquote 2012/04/19 v1.3 upright-quote and grave-accent glyphs in verbatim
 ) (c:/texlive/2019/texmf-dist/tex/latex/microtype/microtype.sty
 Package: microtype 2019/02/28 v2.7b Micro-typographical refinements (RS)
-\MT@toks=\toks42
+\MT@toks=\toks47
 \MT@count=\count147
 LaTeX Info: Redefining \textls on input line 790.
-\MT@outer@kern=\dimen185
+\MT@outer@kern=\dimen188
 LaTeX Info: Redefining \textmicrotypecontext on input line 1336.
 \MT@listname@count=\count148
  (c:/texlive/2019/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 File: microtype-pdftex.def 2019/02/28 v2.7b Definitions specific to pdftex (RS)
 LaTeX Info: Redefining \lsstyle on input line 914.
 LaTeX Info: Redefining \lslig on input line 914.
-\MT@outer@space=\skip71
+\MT@outer@space=\skip72
 )
 Package microtype Info: Loading configuration file microtype.cfg.
  (c:/texlive/2019/texmf-dist/tex/latex/microtype/microtype.cfg
@@ -1013,7 +1026,7 @@ Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
 ) (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 )
-\@linkdim=\dimen186
+\@linkdim=\dimen189
 \Hy@linkcounter=\count149
 \Hy@pagecounter=\count150
  (c:/texlive/2019/texmf-dist/tex/latex/hyperref/pd1enc.def
@@ -1044,10 +1057,10 @@ Package hyperref Info: Bookmarks ON on input line 4803.
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 LaTeX Info: Redefining \url on input line 5156.
-\XeTeXLinkMargin=\dimen187
+\XeTeXLinkMargin=\dimen190
 \Fld@menulength=\count153
-\Field@Width=\dimen188
-\Fld@charsize=\dimen189
+\Field@Width=\dimen191
+\Fld@charsize=\dimen192
 Package hyperref Info: Hyper figures OFF on input line 6411.
 Package hyperref Info: Link nesting OFF on input line 6416.
 Package hyperref Info: Hyper index ON on input line 6419.
@@ -1070,9 +1083,9 @@ File: hpdftex.def 2019/09/12 v6.88i Hyperref driver for pdfTeX
 Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 282.
 )
-\Hy@SectionHShift=\skip72
+\Hy@SectionHShift=\skip73
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 74.
+Package hyperref Info: Option `breaklinks' set `true' on input line 83.
  (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/grffile.sty
 Package: grffile 2017/06/30 v1.18 Extended file name support for graphics (HO)
 Package grffile Info: Option `multidot' is set to `true'.
@@ -1092,34 +1105,34 @@ LaTeX Warning: Unused global option(s):
 (c:/Users/Natasha/Documents/repo/cv/resume.aux)
 \openout1 = `resume.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for U/mathx/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 108.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 108.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for U/mathx/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 117.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 117.
  (c:/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 108.
-LaTeX Font Info:    ... okay on input line 108.
-LaTeX Font Info:    Try loading font information for T1+Carlito-OsF on input line 108.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 117.
+LaTeX Font Info:    ... okay on input line 117.
+LaTeX Font Info:    Try loading font information for T1+Carlito-OsF on input line 117.
  (c:/texlive/2019/texmf-dist/tex/latex/carlito/T1Carlito-OsF.fd
 File: T1Carlito-OsF.fd 2014/08/20 (autoinst) Font definitions for T1/Carlito-OsF.
 )
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 108.
+(Font)              scaled to size 9.49997pt on input line 117.
 \c@mv@tabular=\count160
 \c@mv@boldtabular=\count161
 
@@ -1160,16 +1173,16 @@ LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
 (c:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count162
-\scratchdimen=\dimen190
-\scratchbox=\box70
+\scratchdimen=\dimen193
+\scratchbox=\box71
 \nofMPsegments=\count163
 \nofMParguments=\count164
-\everyMPshowfont=\toks43
+\everyMPshowfont=\toks48
 \MPscratchCnt=\count165
-\MPscratchDim=\dimen191
+\MPscratchDim=\dimen194
 \MPnumerator=\count166
 \makeMPintoPDFobject=\count167
-\everyMPtoPDFconversion=\toks44
+\everyMPtoPDFconversion=\toks49
 ) (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
  (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
@@ -1182,9 +1195,9 @@ Package grfext Info: Graphics extension search list:
  (c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 108.
+LaTeX Info: Redefining \selectfont on input line 117.
  ABD: EveryShipout initializing macros
-LaTeX Info: Redefining \microtypecontext on input line 108.
+LaTeX Info: Redefining \microtypecontext on input line 117.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
@@ -1194,8 +1207,8 @@ Package microtype Info: Using default expansion set `basictext'.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
-\AtBeginShipoutBox=\box71
-Package hyperref Info: Link coloring OFF on input line 108.
+\AtBeginShipoutBox=\box72
+Package hyperref Info: Link coloring OFF on input line 117.
  (c:/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/12 v2.45 Cross-referencing by name of section
  (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -1203,120 +1216,115 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count168
 )
-LaTeX Info: Redefining \ref on input line 108.
-LaTeX Info: Redefining \pageref on input line 108.
-LaTeX Info: Redefining \nameref on input line 108.
+LaTeX Info: Redefining \ref on input line 117.
+LaTeX Info: Redefining \pageref on input line 117.
+LaTeX Info: Redefining \nameref on input line 117.
  (c:/Users/Natasha/Documents/repo/cv/resume.out) (c:/Users/Natasha/Documents/repo/cv/resume.out)
 \@outlinefile=\write4
 \openout4 = `resume.out'.
 
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/bx/n' in size <10> not available
-(Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line 115.
+(Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line 124.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 115.
+(Font)              scaled to size 9.49997pt on input line 124.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/bx/n' in size <37.13889> not available
-(Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line 115.
+(Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line 124.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/b/n' will be
-(Font)              scaled to size 35.28181pt on input line 115.
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 115.
+(Font)              scaled to size 35.28181pt on input line 124.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 124.
  (c:/texlive/2019/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 35.28181pt on input line 117.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 118.
+(Font)              scaled to size 35.28181pt on input line 126.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 127.
  (c:/texlive/2019/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (c:/texlive/2019/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 118.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 127.
  (c:/texlive/2019/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 118.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 127.
  (c:/texlive/2019/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 118.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 127.
  (c:/texlive/2019/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 118.
+(Font)              <10> on input line 127.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 118.
+(Font)              <7> on input line 127.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 118.
-LaTeX Font Info:    Try loading font information for U+msa on input line 118.
+(Font)              <5> on input line 127.
+LaTeX Font Info:    Try loading font information for U+msa on input line 127.
  (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (c:/texlive/2019/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 118.
+LaTeX Font Info:    Try loading font information for U+msb on input line 127.
  (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (c:/texlive/2019/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 126.
+LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 135.
  (c:/texlive/2019/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-LaTeX Font Info:    Try loading font information for U+fontawesomeone on input line 127.
+LaTeX Font Info:    Try loading font information for U+fontawesomeone on input line 136.
  (c:/texlive/2019/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
 <assets/images/profile.png, id=7, 567.11874pt x 567.11874pt>
 File: assets/images/profile.png Graphic file (type png)
 <use assets/images/profile.png>
-Package pdftex.def Info: assets/images/profile.png  used on input line 137.
-(pdftex.def)             Requested size: 87.22751pt x 87.22751pt.
+Package pdftex.def Info: assets/images/profile.png  used on input line 145.
+(pdftex.def)             Requested size: 102.61348pt x 102.61348pt.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/bx/n' in size <14.05255> not available
-(Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line 148.
+(Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line 160.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/b/n' will be
-(Font)              scaled to size 13.34987pt on input line 148.
-LaTeX Font Info:    Try loading font information for TS1+Carlito-OsF on input line 156.
+(Font)              scaled to size 13.34987pt on input line 160.
+LaTeX Font Info:    Try loading font information for TS1+Carlito-OsF on input line 167.
  (c:/texlive/2019/texmf-dist/tex/latex/carlito/TS1Carlito-OsF.fd
 File: TS1Carlito-OsF.fd 2014/08/20 (autoinst) Font definitions for TS1/Carlito-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 156.
+(Font)              scaled to size 9.49997pt on input line 167.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 618.
+(Font)              scaled to size 8.54997pt on input line 630.
 
-Overfull \hbox (29.69067pt too wide) in paragraph at lines 113--782
-[]$[]$ $[]$  $[]$ $[]$  $[]$
- []
-
-
-Overfull \hbox (27.7087pt too wide) in paragraph at lines 113--782
+Overfull \hbox (27.7087pt too wide) in paragraph at lines 122--794
 [][] 
  []
 
 [1
 
 {c:/texlive/2019/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <c:/Users/Natasha/Documents/repo/cv/assets/images/profile.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 783.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 783.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 795.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 795.
  (c:/Users/Natasha/Documents/repo/cv/resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 783.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 783.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 795.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 795.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 783.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 795.
  ) 
 Here is how much of TeX's memory you used:
- 25559 strings out of 492609
- 442231 string characters out of 6132818
- 535837 words of memory out of 5000000
- 28987 multiletter control sequences out of 15000+600000
- 74403 words of font info for 58 fonts, out of 8000000 for 9000
+ 25750 strings out of 492609
+ 444970 string characters out of 6132818
+ 542172 words of memory out of 5000000
+ 29173 multiletter control sequences out of 15000+600000
+ 74716 words of font info for 59 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,54p,1004b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,7n,54p,1004b,469s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2019/texmf-dist/fonts/type1/typoland/carlito/Carlito-Bold.pfb><c:/texlive/2019/texmf-dist/fonts/type1/typoland/carlito/Carlito.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on c:/Users/Natasha/Documents/repo/cv/resume.pdf (1 page, 765728 bytes).
+Output written on c:/Users/Natasha/Documents/repo/cv/resume.pdf (1 page, 766839 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
