@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.9.24)  24 SEP 2019 14:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.9.24)  24 SEP 2019 20:18
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/repo/self/cv/resume.tex
-(c:/repo/self/cv/resume.tex
+**c:/Users/Natasha/Documents/repo/cv/resume.tex
+(c:/Users/Natasha/Documents/repo/cv/resume.tex
 LaTeX2e <2018-12-01>
 (c:/texlive/2019/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
@@ -1089,7 +1089,7 @@ Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
 LaTeX Warning: Unused global option(s):
     [letterpage].
 
-(c:/repo/self/cv/resume.aux)
+(c:/Users/Natasha/Documents/repo/cv/resume.aux)
 \openout1 = `resume.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 108.
@@ -1132,14 +1132,14 @@ LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
 * h-part:(L,W,R)=(39.74872pt, 513.11635pt, 61.42993pt)
-* v-part:(T,H,B)=(50.58878pt, 693.79243pt, 50.58878pt)
+* v-part:(T,H,B)=(39.74872pt, 715.47255pt, 39.74872pt)
 * \paperwidth=614.295pt
 * \paperheight=794.96999pt
 * \textwidth=513.11635pt
-* \textheight=693.79243pt
+* \textheight=715.47255pt
 * \oddsidemargin=-32.52127pt
 * \evensidemargin=-32.52127pt
-* \topmargin=-58.68121pt
+* \topmargin=-69.52127pt
 * \headheight=12.0pt
 * \headsep=25.0pt
 * \topskip=10.0pt
@@ -1206,7 +1206,7 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 108.
 LaTeX Info: Redefining \pageref on input line 108.
 LaTeX Info: Redefining \nameref on input line 108.
- (c:/repo/self/cv/resume.out) (c:/repo/self/cv/resume.out)
+ (c:/Users/Natasha/Documents/repo/cv/resume.out) (c:/Users/Natasha/Documents/repo/cv/resume.out)
 \@outlinefile=\write4
 \openout4 = `resume.out'.
 
@@ -1268,53 +1268,58 @@ LaTeX Font Info:    Try loading font information for U+fontawesomeone on input l
  (c:/texlive/2019/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
+<assets/images/profile.png, id=7, 567.11874pt x 567.11874pt>
+File: assets/images/profile.png Graphic file (type png)
+<use assets/images/profile.png>
+Package pdftex.def Info: assets/images/profile.png  used on input line 137.
+(pdftex.def)             Requested size: 87.22751pt x 87.22751pt.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/bx/n' in size <14.05255> not available
-(Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line 140.
+(Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line 148.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/b/n' will be
-(Font)              scaled to size 13.34987pt on input line 140.
-LaTeX Font Info:    Try loading font information for TS1+Carlito-OsF on input line 148.
+(Font)              scaled to size 13.34987pt on input line 148.
+LaTeX Font Info:    Try loading font information for TS1+Carlito-OsF on input line 156.
  (c:/texlive/2019/texmf-dist/tex/latex/carlito/TS1Carlito-OsF.fd
 File: TS1Carlito-OsF.fd 2014/08/20 (autoinst) Font definitions for TS1/Carlito-OsF.
 )
 LaTeX Font Info:    Font shape `TS1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 148.
+(Font)              scaled to size 9.49997pt on input line 156.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 610.
+(Font)              scaled to size 8.54997pt on input line 618.
 
-Overfull \hbox (16.63318pt too wide) in paragraph at lines 113--774
-[]$[]$ $[]$  $[]$
+Overfull \hbox (29.69067pt too wide) in paragraph at lines 113--782
+[]$[]$ $[]$  $[]$ $[]$  $[]$
  []
 
 
-Overfull \hbox (27.7087pt too wide) in paragraph at lines 113--774
+Overfull \hbox (27.7087pt too wide) in paragraph at lines 113--782
 [][] 
  []
 
 [1
 
-{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 775.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 775.
- (c:/repo/self/cv/resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 775.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 775.
+{c:/texlive/2019/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <c:/Users/Natasha/Documents/repo/cv/assets/images/profile.png>]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 783.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 783.
+ (c:/Users/Natasha/Documents/repo/cv/resume.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 783.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 783.
 Package rerunfilecheck Info: File `resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 775.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 783.
  ) 
 Here is how much of TeX's memory you used:
- 25555 strings out of 492609
- 441861 string characters out of 6132833
- 535835 words of memory out of 5000000
- 28983 multiletter control sequences out of 15000+600000
+ 25559 strings out of 492609
+ 442231 string characters out of 6132818
+ 535837 words of memory out of 5000000
+ 28987 multiletter control sequences out of 15000+600000
  74403 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,6n,54p,985b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,6n,54p,1004b,360s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2019/texmf-dist/fonts/type1/typoland/carlito/Carlito-Bold.pfb><c:/texlive/2019/texmf-dist/fonts/type1/typoland/carlito/Carlito.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on c:/repo/self/cv/resume.pdf (1 page, 122541 bytes).
+Output written on c:/Users/Natasha/Documents/repo/cv/resume.pdf (1 page, 765728 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 33 compressed objects within 1 object stream
+ 45 PDF objects out of 1000 (max. 8388607)
+ 34 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
- 2061 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2066 words of extra memory for PDF output out of 10000 (max. 10000000)
 

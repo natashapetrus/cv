@@ -22,7 +22,7 @@
 \hyphenpenalty=10000
 \hbadness=10000
 % NO HYPHEN END
-\usepackage[top=0.7in, bottom=0.7in, left=0.55in,
+\usepackage[top=0.55in, bottom=0.55in, left=0.55in,
 right=0.85in]{geometry}
 \usepackage{setspace} % for line spacing
 \usepackage{vwcol} % unused - for columns with different widths
@@ -119,8 +119,8 @@ right=0.85in]{geometry}
 \begin{minipage}{0.01\linewidth}
 % INTENTIONALLY LEFT BLANK
 \end{minipage}
-\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\:\: % space between minipages
-\begin{minipage}{0.55\linewidth}
+\:\:\:\:\: % space between minipages
+\begin{minipage}{0.4\linewidth}
 \raggedleft
 \vspace{5px} % for formatting purpose
 natashapetr.us\enspace\faGlobe\\
@@ -128,7 +128,15 @@ hire@npetr.us\enspace\faPaperPlane\\
 linkedin.npetr.us\enspace\faLinkedin\\
 github.npetr.us\enspace\faGithubAlt
 \end{minipage}
-\vspace{11px}\\
+\begin{minipage}{0.01\linewidth}
+  % INTENTIONALLY LEFT BLANK
+\end{minipage}
+\:\:\:\:\: % space between minipages
+\begin{minipage}[]{0.2\linewidth}
+  \raggedright
+  \includegraphics[width=0.85\linewidth]{assets/images/profile.png}
+\end{minipage}
+\vspace*{10px}\\ % space between header and content
 %------------------------------------
 % First Column
 %------------------------------------
