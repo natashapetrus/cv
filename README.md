@@ -13,6 +13,7 @@ My curriculum vitae, written in TeX.
 
 * [TeX Live](https://www.tug.org/texlive/) (full package)
 * [fontawesome](https://www.ctan.org/pkg/fontawesome) (included in TeX Live full package)
+* [ImageMagick](https://imagemagick.org) to convert PDF to image
 
 #### Editor // Compiler
 
