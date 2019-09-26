@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.9.24)  25 SEP 2019 21:06
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.9.24)  25 SEP 2019 21:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1100,7 +1100,7 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip77
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 87.
+Package hyperref Info: Option `breaklinks' set `true' on input line 86.
  (c:/texlive/2019/texmf-dist/tex/latex/oberdiek/grffile.sty
 Package: grffile 2017/06/30 v1.18 Extended file name support for graphics (HO)
 Package grffile Info: Option `multidot' is set to `true'.
@@ -1120,34 +1120,34 @@ LaTeX Warning: Unused global option(s):
 (c:/Users/Natasha/Documents/repo/cv/cv.aux)
 \openout1 = `cv.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for U/mathx/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 121.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 121.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for U/mathx/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 120.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 120.
  (c:/texlive/2019/texmf-dist/tex/latex/base/ts1cmr.fd
 File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 121.
-LaTeX Font Info:    ... okay on input line 121.
-LaTeX Font Info:    Try loading font information for T1+Carlito-OsF on input line 121.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 120.
+LaTeX Font Info:    ... okay on input line 120.
+LaTeX Font Info:    Try loading font information for T1+Carlito-OsF on input line 120.
  (c:/texlive/2019/texmf-dist/tex/latex/carlito/T1Carlito-OsF.fd
 File: T1Carlito-OsF.fd 2014/08/20 (autoinst) Font definitions for T1/Carlito-OsF.
 )
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 9.49997pt on input line 121.
+(Font)              scaled to size 9.49997pt on input line 120.
 \c@mv@tabular=\count161
 \c@mv@boldtabular=\count162
 
@@ -1210,9 +1210,9 @@ Package grfext Info: Graphics extension search list:
  (c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 )) ABD: EverySelectfont initializing macros
-LaTeX Info: Redefining \selectfont on input line 121.
+LaTeX Info: Redefining \selectfont on input line 120.
  ABD: EveryShipout initializing macros
-LaTeX Info: Redefining \microtypecontext on input line 121.
+LaTeX Info: Redefining \microtypecontext on input line 120.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using protrusion set `basicmath'.
@@ -1223,7 +1223,7 @@ Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
 \AtBeginShipoutBox=\box74
-Package hyperref Info: Link coloring OFF on input line 121.
+Package hyperref Info: Link coloring OFF on input line 120.
  (c:/texlive/2019/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/12 v2.45 Cross-referencing by name of section
  (c:/texlive/2019/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
@@ -1231,138 +1231,138 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count169
 )
-LaTeX Info: Redefining \ref on input line 121.
-LaTeX Info: Redefining \pageref on input line 121.
-LaTeX Info: Redefining \nameref on input line 121.
+LaTeX Info: Redefining \ref on input line 120.
+LaTeX Info: Redefining \pageref on input line 120.
+LaTeX Info: Redefining \nameref on input line 120.
  (c:/Users/Natasha/Documents/repo/cv/cv.out) (c:/Users/Natasha/Documents/repo/cv/cv.out)
 \@outlinefile=\write4
 \openout4 = `cv.out'.
 
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/bx/n' in size <10> not available
-(Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line 128.
+(Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line 127.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/b/n' will be
-(Font)              scaled to size 9.49997pt on input line 128.
+(Font)              scaled to size 9.49997pt on input line 127.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/bx/n' in size <37.13889> not available
-(Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line 128.
+(Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line 127.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/b/n' will be
-(Font)              scaled to size 35.28181pt on input line 128.
-LaTeX Font Info:    Try loading font information for T1+lmss on input line 128.
+(Font)              scaled to size 35.28181pt on input line 127.
+LaTeX Font Info:    Try loading font information for T1+lmss on input line 127.
  (c:/texlive/2019/texmf-dist/tex/latex/lm/t1lmss.fd
 File: t1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 35.28181pt on input line 130.
-LaTeX Font Info:    Try loading font information for OT1+lmr on input line 131.
+(Font)              scaled to size 35.28181pt on input line 129.
+LaTeX Font Info:    Try loading font information for OT1+lmr on input line 130.
  (c:/texlive/2019/texmf-dist/tex/latex/lm/ot1lmr.fd
 File: ot1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 ) (c:/texlive/2019/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (RS)
 )
-LaTeX Font Info:    Try loading font information for OML+lmm on input line 131.
+LaTeX Font Info:    Try loading font information for OML+lmm on input line 130.
  (c:/texlive/2019/texmf-dist/tex/latex/lm/omllmm.fd
 File: omllmm.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 131.
+LaTeX Font Info:    Try loading font information for OMS+lmsy on input line 130.
  (c:/texlive/2019/texmf-dist/tex/latex/lm/omslmsy.fd
 File: omslmsy.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-LaTeX Font Info:    Try loading font information for OMX+lmex on input line 131.
+LaTeX Font Info:    Try loading font information for OMX+lmex on input line 130.
  (c:/texlive/2019/texmf-dist/tex/latex/lm/omxlmex.fd
 File: omxlmex.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 131.
+(Font)              <10> on input line 130.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 131.
+(Font)              <7> on input line 130.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 131.
-LaTeX Font Info:    Try loading font information for U+msa on input line 131.
+(Font)              <5> on input line 130.
+LaTeX Font Info:    Try loading font information for U+msa on input line 130.
  (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 ) (c:/texlive/2019/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 131.
+LaTeX Font Info:    Try loading font information for U+msb on input line 130.
  (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) (c:/texlive/2019/texmf-dist/tex/latex/microtype/mt-msb.cfg
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
-LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 139.
+LaTeX Font Info:    Try loading font information for U+fontawesometwo on input line 138.
  (c:/texlive/2019/texmf-dist/tex/latex/fontawesome/ufontawesometwo.fd
 File: ufontawesometwo.fd 2016/05/22 Font definitions for U/fontawesometwo.
 )
-LaTeX Font Info:    Try loading font information for U+fontawesomeone on input line 140.
+LaTeX Font Info:    Try loading font information for U+fontawesomeone on input line 139.
  (c:/texlive/2019/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
 <assets/images/profile.png, id=7, 567.11874pt x 567.11874pt>
 File: assets/images/profile.png Graphic file (type png)
 <use assets/images/profile.png>
-Package pdftex.def Info: assets/images/profile.png  used on input line 149.
+Package pdftex.def Info: assets/images/profile.png  used on input line 148.
 (pdftex.def)             Requested size: 102.61348pt x 102.61348pt.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/bx/n' in size <14.05255> not available
-(Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line 164.
+(Font)              Font shape `T1/Carlito-OsF/b/n' tried instead on input line 163.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/b/n' will be
-(Font)              scaled to size 13.34987pt on input line 164.
+(Font)              scaled to size 13.34987pt on input line 163.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 16.41594pt on input line 237.
+(Font)              scaled to size 16.41594pt on input line 236.
 
-Overfull \vbox (27.01819pt too high) detected at line 237
+Overfull \vbox (27.01819pt too high) detected at line 236
  []
 
 
-Overfull \hbox (5.0463pt too wide) in paragraph at lines 237--237
+Overfull \hbox (5.0463pt too wide) in paragraph at lines 236--236
 [][] 
  []
 
 
-Overfull \vbox (30.97105pt too high) detected at line 295
+Overfull \vbox (30.97105pt too high) detected at line 294
  []
 
 
-Overfull \hbox (5.0463pt too wide) in paragraph at lines 295--295
+Overfull \hbox (5.0463pt too wide) in paragraph at lines 294--294
 [][] 
  []
 
 
-Overfull \vbox (24.66087pt too high) detected at line 314
+Overfull \vbox (24.66087pt too high) detected at line 313
  []
 
 
-Overfull \hbox (5.0463pt too wide) in paragraph at lines 314--314
+Overfull \hbox (5.0463pt too wide) in paragraph at lines 313--313
 [][] 
  []
 
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 8.54997pt on input line 409.
+(Font)              scaled to size 8.54997pt on input line 408.
 
-Overfull \hbox (29.14034pt too wide) in paragraph at lines 126--495
+Overfull \hbox (29.14034pt too wide) in paragraph at lines 125--494
 [] [] 
  []
 
 [1
 
 {c:/texlive/2019/texmf-dist/fonts/map/pdftex/updmap/pdftex.map} <c:/Users/Natasha/Documents/repo/cv/assets/images/profile.png>]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 496.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 496.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 495.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 495.
  (c:/Users/Natasha/Documents/repo/cv/cv.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 496.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 496.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 495.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 495.
 Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 496.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 495.
  ) 
 Here is how much of TeX's memory you used:
- 25837 strings out of 492609
- 445835 string characters out of 6132818
- 555498 words of memory out of 5000000
- 29258 multiletter control sequences out of 15000+600000
+ 25836 strings out of 492609
+ 445816 string characters out of 6132818
+ 555444 words of memory out of 5000000
+ 29257 multiletter control sequences out of 15000+600000
  82031 words of font info for 60 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,17n,54p,1000b,623s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2019/texmf-dist/fonts/type1/typoland/carlito/Carlito-Bold.pfb><c:/texlive/2019/texmf-dist/fonts/type1/typoland/carlito/Carlito.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on c:/Users/Natasha/Documents/repo/cv/cv.pdf (1 page, 768549 bytes).
+Output written on c:/Users/Natasha/Documents/repo/cv/cv.pdf (1 page, 768539 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
