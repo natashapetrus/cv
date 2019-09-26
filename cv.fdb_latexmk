@@ -1,9 +1,9 @@
 # Fdb version 3
-["pdflatex"] 1569470969 "c:/Users/Natasha/Documents/repo/cv/cv.tex" "c:/Users/Natasha/Documents/repo/cv/cv.pdf" "cv" 1569470971
+["pdflatex"] 1569471353 "c:/Users/Natasha/Documents/repo/cv/cv.tex" "c:/Users/Natasha/Documents/repo/cv/cv.pdf" "cv" 1569471355
   "assets/images/profile.png" 1569380447 540812 be6d8b32ab877e937572ac5b1ddd2f2c ""
   "c:/Users/Natasha/.texlive2019/texmf-var/web2c/pdftex/pdflatex.fmt" 1569310118 4261111 98a522180759fd23ea0cabc49647f025 ""
-  "c:/Users/Natasha/Documents/repo/cv/cv.aux" 1569470971 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "c:/Users/Natasha/Documents/repo/cv/cv.tex" 1569470968 15113 b5f91149520682b8a80a6d8a7eed0dec ""
+  "c:/Users/Natasha/Documents/repo/cv/cv.aux" 1569471355 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "c:/Users/Natasha/Documents/repo/cv/cv.tex" 1569471352 15159 b82d1b4dd0523efc3a71a9ac664662ab ""
   "c:/texlive/2019/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc" 1569305514 3095 534643e1ce5e5b89e4b95a9cbbe1a3ef ""
   "c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1569306444 1687 f004baecce60175c6453d0e3f808cf20 ""
   "c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc" 1569306444 2679 32dd8ae231bf4a0752b98f62dc097183 ""
@@ -210,13 +210,13 @@
   "c:/texlive/2019/texmf-dist/tex/latex/xkeyval/xkeyval.sty" 1569309567 4962 9c1069474ff71dbc47d5006555e352d3 ""
   "c:/texlive/2019/texmf-dist/web2c/texmf.cnf" 1569307036 39543 a0bd1f17d0daea30a3905c0b020d0959 ""
   "c:/texlive/2019/texmf.cnf" 1569309644 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "cv.aux" 1569470971 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
-  "cv.out" 1569470970 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv.tex" 1569470968 15113 b5f91149520682b8a80a6d8a7eed0dec ""
+  "cv.aux" 1569471355 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
+  "cv.out" 1569471354 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv.tex" 1569471352 15159 b82d1b4dd0523efc3a71a9ac664662ab ""
   (generated)
   "c:/Users/Natasha/Documents/repo/cv/cv.pdf"
   "cv.aux"
-  "cv.out"
   "c:/Users/Natasha/Documents/repo/cv/cv.log"
-  "cv.log"
   "cv.pdf"
+  "cv.log"
+  "cv.out"
