@@ -1,5 +1,5 @@
 % Author: Natasha T. Petrus
-% Document type: Resume
+% Document type: CV
 
 \documentclass[letterpage]{article}
 
@@ -30,6 +30,8 @@ right=0.85in]{geometry}
 % currently using minipage to create columns
 \usepackage{enumitem} % for 'itemize' configuration
 % http://ctan.org/pkg/enumitem
+% bullet style for items in list:
+\renewcommand\labelitemi{\rule[1mm]{0.33mm}{0.33mm}}  
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % COLOR PACKAGE & PREDEFINED COLORS
@@ -44,6 +46,7 @@ right=0.85in]{geometry}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % OTHER PACKAGES
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{array,multirow,graphicx} % for tables
 \usepackage{verbatim} % for multi-line comments
 \usepackage{graphicx} % for rotating text boxes
 \usepackage{tikz} % for drawing shapes & highlights
@@ -165,18 +168,8 @@ right=0.85in]{geometry}
 \textbf{Summa Cum Laude}\\
 \textbf{GPA: 3.99 / 4.00}
 \begin{itemize}[leftmargin=*,labelindent=5mm,labelsep=7mm]
-\renewcommand\labelitemi{\rule[1mm]{0.33mm}{0.33mm}}
-\renewcommand\labelitemii{$\blacksquare$}
 \item
   Messina Merit Scholarship
-  \begin{comment}
-  {\begin{list}{}{} % to create indentation (w/o bulletpoints)
-    \item
-      For transfer student with
-    \item
-      minimum GPA of 3.75
-  \end{list}}
-  \end{comment}
 \item
   IEEE-HKN Mu Iota Chapter
   {\begin{list}{}{}
@@ -207,9 +200,7 @@ right=0.85in]{geometry}
 \textbf{\textsf{North Seattle College - Seattle, WA}}\\
 \textbf{Associate of Science Degree }
 
-%\begin{itemize}[leftmargin=*,labelindent=5mm,labelsep=7mm]
-%\renewcommand\labelitemi{\rule[1mm]{0.33mm}{0.33mm}}
-%\renewcommand\labelitemii{$\blacksquare$} 
+%\begin{itemize}[leftmargin=*,labelindent=5mm,labelsep=7mm] 
 %\item
 %  Phi Theta Kappa Honor Society
 %  {\begin{list}{}{}
@@ -226,10 +217,10 @@ right=0.85in]{geometry}
 \vspace{19px}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% TECHNICAL SKILLS
+% COMPETENCIES / TECHNICAL SKILLS
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \textbf{\fontsize{14px}{1px}\selectfont
-  \ul{S K I L L S}
+  \ul{C O M P E T E N C I E S}
 }\\
 \vspace{0px}\\
 \begin{minipage}[t]{0.01\linewidth}
@@ -237,322 +228,113 @@ right=0.85in]{geometry}
 \end{minipage}
 \: % space between left margin and text
 
-\begin{minipage}[]{0.85\linewidth}
-\raggedright
-%\linespread{0.895}\selectfont
-\textcolor{gray}{Software and Platforms:}
-\begin{itemize}[label={},leftmargin=*,labelindent=5mm]
-\item
-Visual Studio,
-GitHub/GitLab,
-Jenkins,
-Redis,
-RabbitMQ,
-Expo,
-MS Office,
-NI Multisim,
-NI Ultiboard,
-NI LabView,
-Eclipse,
-AutoCAD, 
-Solidworks
-\end{itemize}
-\vspace{7px}
-\textcolor{gray}{Languages, Libraries, and Frameworks:}\\
-\begin{itemize}[label={},leftmargin=*,labelindent=5mm]
-\item
-C\#,
-Selenium,
-NUnit,
-React Native,
-ReactJS,
-JavaScript
-Typescript,
-jQuery,
-Knockout,
-MATLAB,
-LaTeX,
-HTML,
-CSS,
-C,
-C++,
-VHDL,
-Python,
-MIPS Assembly Language,
-Java,
-PHP,
-AngularJS,
-SQL (MySql)
-\end{itemize}
-\vspace{7px}
-\textcolor{gray}{Additional Skills:}
-\begin{itemize}[leftmargin=*,labelindent=5mm,labelsep=7mm]
-\renewcommand\labelitemi{\rule[1mm]{0.33mm}{0.33mm}}
-\renewcommand\labelitemii{$\blacksquare$} 
-\item
-  Mobile app design and development
-\item
-  Full-stack web development
-\item
-  REST API development
-\item
-  PCB design, testing, and soldering
-\item
-  Custom IC layout design and testing
-  \begin{comment}(starting from
-  transistor level)\end{comment}
-\item
+\begin{minipage}[]{0.9\linewidth}
+\linespread{0.895}\selectfont
+
+\setlength{\tabcolsep}{0pt} % no spacing between columns
+\begin{tabular}{p{0.1\linewidth}p{0.05\linewidth}p{0.3\linewidth}p{0.45\linewidth}}
+  \parbox[t]{2mm}{\multirow{3}{*}{\LARGE \rotatebox[origin=c]{90}{\textcolor{lightgray}{L\:\:A\:\:N\:\:G}}}}
+  &
+  &
+  English &
+  \begin{tikzpicture}
+    \fill[light-sky-blue] (0,0) circle (0.125);
+    \fill[light-sky-blue] (0.6,0) circle (0.125);
+    \fill[light-sky-blue] (1.2,0) circle (0.125);
+    \fill[light-sky-blue] (1.8,0) circle (0.125);
+    \fill[light-sky-blue] (2.4,0) circle (0.125);
+  \end{tikzpicture} \vspace*{5px} \\ && 
+  Indonesian &
+  \begin{tikzpicture}
+    \fill[light-sky-blue] (0,0) circle (0.125);
+    \fill[light-sky-blue] (0.6,0) circle (0.125);
+    \fill[light-sky-blue] (1.2,0) circle (0.125);
+    \fill[light-sky-blue] (1.8,0) circle (0.125);
+    \fill[light-sky-blue] (2.4,0) circle (0.125);
+  \end{tikzpicture} \vspace*{5px} \\ && 
+  French &
+  \begin{tikzpicture}
+    \fill[light-sky-blue] (0,0) circle (0.125);
+    \fill[light-sky-blue] (0.6,0) circle (0.125);
+    \fill[lightgray] (1.2,0) circle (0.125);
+    \fill[lightgray] (1.8,0) circle (0.125);
+    \fill[lightgray] (2.4,0) circle (0.125);
+  \end{tikzpicture} \vspace*{5px} \\ && 
+  Chinese &
+  \begin{tikzpicture}
+    \fill[light-sky-blue] (0,0) circle (0.125);
+    \fill[lightgray] (0.6,0) circle (0.125);
+    \fill[lightgray] (1.2,0) circle (0.125);
+    \fill[lightgray] (1.8,0) circle (0.125);
+    \fill[lightgray] (2.4,0) circle (0.125);
+  \end{tikzpicture} \vspace*{10px} \\ && 
+  \multicolumn{2}{p{0.75\linewidth}}{
+    \raggedright
+    C\#,
+    HTML +  CSS,
+    JavaScript (jQuery, Typescript, ReactJS, React Native, Knockout, AngularJS),
+    SQL,
+    LaTeX,
+    MATLAB,
+    C,
+    C++,
+    Python,
+    Java + Scala,
+    PHP,
+    VHDL,
+    MIPS Assembly Language
+  }
+\end{tabular}
+\vspace*{14px}\\
+% change textbullet style
+\renewcommand{\textbullet}{\rule[1mm]{0.33mm}{0.33mm}}
+% add ability to use P instead of p for text alignment (left)
+\newcolumntype{P}[1]{>{\raggedright\arraybackslash}p{#1}}
+\begin{tabular}{p{0.1\linewidth}p{0.05\linewidth}p{0.1\linewidth}P{0.65\linewidth}}
+  \parbox[t]{2mm}{\multirow{3}{*}{\LARGE \rotatebox[origin=c]{90}{\textcolor{lightgray}{S\:\:K\:\:I\:\:L\:\:L}}}}
+  &
+  &
+  \textbullet &
+  Full-stack web \& mobile apps design and development
+  \\ &&  \textbullet &
+  PCB design and soldering
+  \\ &&  \textbullet &
+  Custom IC layout design
+  \\ &&  \textbullet &
   FPGA programming and testing
-\item
-  @RISK for financial analysis
-\item
-  Technical writing skills
-\item
+  \\ &&  \textbullet &
   Strong organizational, analytical, interpersonal,
-  and presentation skills
-\item
-  Fast learner and a problem solver
-\item
+      presentation, \& technical writing skills
+  \\ &&  \textbullet &
   Experienced in graphic design
-\end{itemize}
+\end{tabular}
+\vspace*{14px}\\
+\begin{tabular}{p{0.1\linewidth}p{0.05\linewidth}p{0.75\linewidth}}
+  \parbox[t]{2mm}{\multirow{3}{*}{\LARGE \rotatebox[origin=c]{90}{\textcolor{lightgray}{T\:\:E\:\:C\:\:H}}}}
+  &
+  &
+  \raggedright
+  Visual Studio,
+  Visual Studio Code,
+  IntelliJ IDEA,
+  Git/GitHub/GitLab,
+  SQL/RDBMS (MySQL, PostgreSQL),
+  NoSQL (MongoDB, Redis),
+  Jenkins,
+  RabbitMQ,
+  Docker,
+  AWS (OpsWorks, Elasticsearch, ElastiCache)
+  CircleCI,
+  Expo,
+  MS Office,
+  NI Multisim,
+  NI Ultiboard,
+  AutoCAD, 
+  Solidworks
+\end{tabular}
 \end{minipage}
 
-%% !!!!!!! OLD VERSION 2 (NO COMPETENCY BARS)
-%% NO ADDITIONAL SKILLS
-\begin{comment}
-\begin{minipage}[]{0.6\linewidth}
-\linespread{0.895}\selectfont
-
-\begin{multicols}{2}
-\raggedright
-%{\large \textcolor{gray}{SOFTWARE:}\:\:}\\
-{\LARGE \rotatebox{90}{\textcolor{lightgray}{S O F T W A R E}}}\\
-\columnbreak
-Adobe Audition\\
-Adobe Illustrator\\
-Adobe Photoshop\\
-AutoCAD\\
-iATS Payments\\
-Logisim\\
-LTSpice\\
-MS Access\\
-MS Excel\\
-MS PowerPoint\\
-MS Publisher\\
-MS Word\\
-NI LabView\\
-NI Ultiboard\\
-Salesforce
-% --------------------------------------------
-\\~\\ % --------------LINE BREAK--------------
-% --------------------------------------------
-\end{multicols}
 \end{minipage}
-
-\begin{minipage}[]{0.6\linewidth}
-\linespread{0.895}\selectfont
-
-\begin{multicols}{2}
-\raggedright
-%{\large \textcolor{gray}{LANGUAGES:}}\\
-{\LARGE \rotatebox{90}{\textcolor{lightgray}{L A N G U A G E S}}}\\
-\columnbreak
-C/C++\\
-CSS\\
-HTML\\
-Java\\
-Javascript\\
-LaTeX\\
-MATLAB\\
-MIPS Assembly\\
-PHP\\
-Python\\
-VHDL
-\end{multicols}
-\end{minipage}%
-\end{comment}
-
-%% !!!!!!! OLD VERSION (COMPETENCY BARS)
-\begin{comment}
-%------------------------------------
-% First Sub-Column
-%------------------------------------
-\begin{minipage}[t]{0.33\linewidth}
-\linespread{0.895}\selectfont % line spacing - SAME AS BELOW
-\raggedleft
-Adobe Audition\\
-Adobe Illustrator\\
-Adobe Photoshop\\
-AutoCAD\\
-iATS Payments\\
-Logisim\\
-LTSpice\\
-MS Access\\
-MS Excel\\
-MS PowerPoint\\
-MS Publisher\\
-MS Word\\
-NI LabView\\
-NI Ultiboard\\
-Salesforce
-% --------------------------------------------
-\\~\\ % --------------LINE BREAK--------------
-% --------------------------------------------
-C/C++\\
-CSS\\
-HTML\\
-Java\\
-Javascript\\
-LaTeX\\
-MATLAB\\
-MIPS Assembly\\
-PHP\\
-Python\\
-VHDL
-\end{minipage}%
-%------------------------------------
-% Second Sub-Column
-%------------------------------------
-\:\:\: % space between text and bar
-\begin{minipage}[t]{0.6\linewidth}
-\linespread{0.895}\selectfont % line spacing - SAME AS LEFT COL.
-% Adobe Audition:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (1.8,0.35);
-\end{tikzpicture}\\
-% Adobe Illustrator:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (1.1,0.35);
-\end{tikzpicture}\\
-% Adobe Photoshop:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.2,0.35);
-\end{tikzpicture}\\
-% AutoCAD:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.5,0.35);
-\end{tikzpicture}\\
-% iATS Payments:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.7,0.35);
-\end{tikzpicture}\\
-% Logisim:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.9,0.35);
-\end{tikzpicture}\\
-% LTSpice:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.9,0.35);
-\end{tikzpicture}\\
-% MS Access:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (1.7,0.35);
-\end{tikzpicture}\\
-% MS Excel:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.6,0.35);
-\end{tikzpicture}\\
-% MS PowerPoint:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.9,0.35);
-\end{tikzpicture}\\
-% MS Publisher:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.4,0.35);
-\end{tikzpicture}\\
-% MS Word:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.9,0.35);
-\end{tikzpicture}\\
-% NI LabView:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.0,0.35);
-\end{tikzpicture}\\
-% NI Ultiboard:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.0,0.35);
-\end{tikzpicture}\\
-% Salesforce:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.8,0.35);
-\end{tikzpicture}
-% --------------------------------------------
-\\~\\ % --------------LINE BREAK--------------
-% --------------------------------------------
-% C/C++:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.4,0.35);
-\end{tikzpicture}\\
-% CSS:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.6,0.35);
-\end{tikzpicture}\\
-% HTML:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.9,0.35);
-\end{tikzpicture}\\
-% Java:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.0,0.35);
-\end{tikzpicture}\\
-% Javascript:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (1.3,0.35);
-\end{tikzpicture}\\
-% LaTeX:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.0,0.35);
-\end{tikzpicture}\\
-% MATLAB:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.8,0.35);
-\end{tikzpicture}\\
-% MIPS Assembly:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.3,0.35);
-\end{tikzpicture}\\
-% PHP:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (1.8,0.35);
-\end{tikzpicture}\\
-% Python:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.6,0.35);
-\end{tikzpicture}\\
-% VHDL:
-\begin{tikzpicture}
-\fill[black!10!white] (0,0.57) rectangle (2.9,0.35);
-\fill[black!77!white] (0,0.57) rectangle (2.3,0.35);
-\end{tikzpicture}
-\end{minipage}
-\end{comment}
-
-\end{minipage}%
 %------------------------------------
 % Second Column
 %------------------------------------
@@ -565,24 +347,25 @@ VHDL
   \ul{R E L E V A N T \:\: E X P E R I E N C E}
 }\\
 
+%% Kit.com: Software Engineer
+\vspace{7px}
+\textcolor{gray}{September 2019 - Present}\\
+\textbf{\textsf{Software Engineer for Kit.com}}\\
+\raggedright
+Currently responsible for infrastructure migration,
+maintaining existing functionality, as well as implementing
+new features following Geniuslink's acquisition of Kit.com.
+
 %% Geniuslink: Software Engineer
 \vspace{7px}
 \textcolor{gray}{October 2017 - Present}\\
 \textbf{\textsf{Software Engineer at Geniuslink}}
 \begin{itemize}[leftmargin=*,labelindent=1mm,labelsep=0mm]
-\renewcommand\labelitemi{\rule[1mm]{0.33mm}{0.33mm}}
-\renewcommand\labelitemii{$\blacksquare$}
 \item
   \begin{quote}
   \raggedright
-  Has increased the number of integration tests against the company's whole web
-  application and service by more than 3000\% thus far
-  \end{quote}
-\item
-  \begin{quote}
-  \raggedright
-  Constantly automating tests using Jenkins/Mono,
-  Selenium (C\#), NUnit, and ServiceStack
+  Has increased the number of automated integration tests
+  against the company's web applications by more than 3000\% thus far
   \end{quote}
 \item
   \begin{quote}
@@ -590,11 +373,6 @@ VHDL
   Allowed all integration tests to be run against any
   environment easily through Jenkins and greatly
   assisted in making Canary testing possible
-  \end{quote}
-\item
-  \begin{quote}
-  \raggedright
-  Mocked third-party APIs for testing against the company's service
   \end{quote}
 \item
   \begin{quote}
@@ -620,8 +398,9 @@ VHDL
 \textcolor{gray}{September - October 2017}\\
 \textbf{\textsf{Game Tester at HCL Technologies/Microsoft}}\\
 \raggedright
-Worked within HCL Technologies' CERT lab to certify pre-released
-games and the DLCs were up to specified software and platform standards.
+Worked within HCL Technologies' CERT lab, partnering with
+Microsoft, to certify pre-released Xbox games were
+up to specified software and platform standards.
 
 %% Senior Design / Interdisciplinary Project: T-Mobile
 \vspace{7px}
@@ -636,35 +415,12 @@ implementation;\\reduced manufacturing cost by at least 50\%,
 reduced physical size by at least 60\%, and improved
 power efficiency.\\
 \begin{itemize}[leftmargin=*,labelindent=1mm,labelsep=0mm]
-\renewcommand\labelitemi{\rule[1mm]{0.33mm}{0.33mm}}
-\renewcommand\labelitemii{$\blacksquare$}
 \item
   \begin{quote}
   \raggedright
   Designed and manufactured two working prototypes within
   a year using SolidWorks (3D modeling)
   \end{quote}
-\begin{comment}
-\item
-  \begin{quote}
-  \raggedright
-  Processed data points gathered from single taps generated
-  by the first prototype using MATLAB to generate margin of position
-  error and to observe how much force is applied to device screen
-  \end{quote}
-\item
-  \begin{quote}
-  \raggedright
-  Used MATLAB to generate the z-axis actuator positional feedback
-  from thousands of data points
-  \end{quote}
-\item
-  \begin{quote}
-  \raggedright
-  Used OpenCV to detect a signifier on the phone's GUI in order
-  to ensure a certain test case is successfully passed
-  \end{quote}
-\end{comment}
 \item
   \begin{quote}
   \raggedright
@@ -688,30 +444,6 @@ using Electric VLSI.
 \raggedright
 Implemented the ISO 18000 13.56 MHz RFID standard on software defined
 radios with LFRX and LFTX daughterboards.
-\begin{comment}
-\begin{itemize}[leftmargin=*,labelindent=1mm,labelsep=0mm]
-\renewcommand\labelitemi{\rule[1mm]{0.33mm}{0.33mm}}
-\renewcommand\labelitemii{$\blacksquare$}
-\item
-  \begin{quote}
-  \raggedright
-  Used MATLAB to generate modulated waves to test
-  demodulation of self-built AM receiver and to generate
-  waves to be transmitted by a tag reader to power RFID tags
-  \end{quote}
-\end{itemize}
-\end{comment}
-
-\begin{comment}
-%% DSP
-\vspace{7px}
-\textcolor{gray}{September - December 2016}\\
-\textbf{\textsf{SU Course Project: Digital Signal Processing}}\\
-  \raggedright
-  Used MATLAB and data sampling to manipulate sound waves,
-  and to build and test different filters on MATLAB-generated
-  waves.
-\end{comment}
 
 %% Aneka Elektrindo Panel
 \vspace{7px}
@@ -727,8 +459,6 @@ specifications using AutoCAD.
 \textcolor{gray}{October 2015 - June 2016}\\
 \textbf{\textsf{Internship: IT Manager at Global Visionaries}}\\
 \begin{itemize}[leftmargin=*,labelindent=1mm,labelsep=0mm]
-\renewcommand\labelitemi{\rule[1mm]{0.33mm}{0.33mm}}
-\renewcommand\labelitemii{$\blacksquare$}
 \item
   \begin{quote}
   \raggedright
@@ -743,22 +473,11 @@ specifications using AutoCAD.
   \end{quote}
 \end{itemize}
 
-%% ECE Junior Project: Automated Puppet Show
-\begin{comment}
-\vspace{7px}
-\textcolor{gray}{September 2015 - June 2016}\\
-\textbf{\textsf{ECE Junior Project: Automated Puppet Show}}\\
-\raggedright
-Built an automated puppet show using semiconductor devices and Raspberry Pi.
-\end{comment}
-
 %% MATLAB Tutor & Grader
 \vspace{7px}
 \textcolor{gray}{January - March 2016}\\
 \textbf{\textsf{MATLAB Teaching Assistant at Seattle University}}
 \begin{itemize}[leftmargin=*,labelindent=1mm,labelsep=0mm]
-\renewcommand\labelitemi{\rule[1mm]{0.33mm}{0.33mm}}
-\renewcommand\labelitemii{$\blacksquare$}
 \item
   \begin{quote}
   \raggedright
@@ -770,25 +489,6 @@ Built an automated puppet show using semiconductor devices and Raspberry Pi.
   Graded weekly projects and assignments
   \end{quote}
 \end{itemize}
-
-%% VHDL Project: Pong Game
-\begin{comment}
-\vspace{7px}
-\textcolor{gray}{January - March 2016}\\
-\textbf{\textsf{FPGA Project: Pong Game}}\\
-\raggedright
-Created game written in C and VHDL using Altera board,
-Arduino, and VGA monitor.
-\end{comment}
-
-%% MATLAB Course Project
-\begin{comment}
-\vspace{7px}
-\textcolor{gray}{September - December 2015}\\
-\textbf{\textsf{SU MATLAB Course Small Project}}\\
-\raggedright
-Created Snakes and Ladders game on MATLAB for 2-4 players.
-\end{comment}
 
 \end{minipage}
 
