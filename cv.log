@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.9.24)  25 SEP 2019 21:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.9.24)  25 SEP 2019 21:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1335,7 +1335,7 @@ Overfull \hbox (5.0463pt too wide) in paragraph at lines 314--314
  []
 
 
-Overfull \hbox (29.14034pt too wide) in paragraph at lines 126--496
+Overfull \hbox (18.87582pt too wide) in paragraph at lines 126--496
 [] [] 
  []
 
@@ -1354,13 +1354,13 @@ Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 497.
 Here is how much of TeX's memory you used:
  25834 strings out of 492609
  445769 string characters out of 6132818
- 555511 words of memory out of 5000000
+ 555498 words of memory out of 5000000
  29256 multiletter control sequences out of 15000+600000
  74377 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  55i,17n,54p,1000b,623s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2019/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/texlive/2019/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2019/texmf-dist/fonts/type1/typoland/carlito/Carlito-Bold.pfb><c:/texlive/2019/texmf-dist/fonts/type1/typoland/carlito/Carlito.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on c:/Users/Natasha/Documents/repo/cv/cv.pdf (1 page, 768538 bytes).
+Output written on c:/Users/Natasha/Documents/repo/cv/cv.pdf (1 page, 768550 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  34 compressed objects within 1 object stream
