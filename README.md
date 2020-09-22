@@ -11,8 +11,14 @@ My curriculum vitae, written in TeX.
 
 #### Dependencies
 
-* [TeX Live](https://www.tug.org/texlive/) (full package)
+* [TeX Live](https://www.tug.org/texlive/) (full scheme, or just install basic/custom scheme with a few additions below)
 * [fontawesome](https://www.ctan.org/pkg/fontawesome) (included in TeX Live full package)
+    * Or, run `tlmgr install fontawesome`
+* [latexmk](https://www.ctan.org/pkg/latexmk)
+    * Check that latexmk.exe exists under /bin/win32
+    * If missing, run `tlmgr install latexmk`
+    * Used to compile and preview .pdf file when editing via Visual Studio Code
+* If missing any other package/library, simply run `tlmgr install {libname}`
 
 #### Editor // Compiler
 
