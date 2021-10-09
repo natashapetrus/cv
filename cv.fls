@@ -354,6 +354,9 @@ INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fonta
 INPUT c:/texlive/2020/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 INPUT c:/texlive/2020/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesomeone.tfm
+INPUT c:/texlive/2020/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
+INPUT c:/texlive/2020/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
+INPUT c:/texlive/2020/texmf-dist/fonts/tfm/public/fontawesome/FontAwesome--fontawesomethree.tfm
 INPUT d:/Documents/GitHub Repositories/cv/assets/images/profile.png
 INPUT d:/Documents/GitHub Repositories/cv/assets/images/profile.png
 INPUT d:/Documents/GitHub Repositories/cv/assets/images/profile.png
@@ -373,6 +376,7 @@ INPUT d:/Documents/GitHub Repositories/cv/cv.aux
 INPUT d:/Documents/GitHub Repositories/cv/cv.out
 INPUT d:/Documents/GitHub Repositories/cv/cv.out
 INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc
+INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc
 INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc
 INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc
 INPUT c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc

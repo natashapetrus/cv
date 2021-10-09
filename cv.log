@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.22)  22 SEP 2020 15:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/W32TeX) (preloaded format=pdflatex 2020.9.22)  9 OCT 2021 13:12
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1163,21 +1163,25 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomeone on inpu
  (c:/texlive/2020/texmf-dist/tex/latex/fontawesome/ufontawesomeone.fd
 File: ufontawesomeone.fd 2016/05/22 Font definitions for U/fontawesomeone.
 )
+LaTeX Font Info:    Trying to load font information for U+fontawesomethree on input line 143.
+ (c:/texlive/2020/texmf-dist/tex/latex/fontawesome/ufontawesomethree.fd
+File: ufontawesomethree.fd 2016/05/22 Font definitions for U/fontawesomethree.
+)
 <assets/images/profile.png, id=7, 567.11874pt x 567.11874pt>
 File: assets/images/profile.png Graphic file (type png)
 <use assets/images/profile.png>
-Package pdftex.def Info: assets/images/profile.png  used on input line 149.
+Package pdftex.def Info: assets/images/profile.png  used on input line 150.
 (pdftex.def)             Requested size: 102.61348pt x 102.61348pt.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/b/n' will be
-(Font)              scaled to size 13.34987pt on input line 164.
+(Font)              scaled to size 13.34987pt on input line 165.
 LaTeX Font Info:    Font shape `T1/Carlito-OsF/m/n' will be
-(Font)              scaled to size 16.41594pt on input line 237.
+(Font)              scaled to size 16.41594pt on input line 238.
 
-Overfull \vbox (27.01819pt too high) detected at line 237
+Overfull \vbox (27.01819pt too high) detected at line 238
  []
 
 
-Overfull \hbox (5.0463pt too wide) in paragraph at lines 237--237
+Overfull \hbox (5.0463pt too wide) in paragraph at lines 238--238
 [][] 
  []
 
@@ -1217,18 +1221,18 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 497.
  ) 
 Here is how much of TeX's memory you used:
- 26092 strings out of 482781
- 450133 string characters out of 5955258
- 731809 words of memory out of 5000000
- 40928 multiletter control sequences out of 15000+600000
- 612302 words of font info for 73 fonts, out of 8000000 for 9000
+ 26105 strings out of 482781
+ 450534 string characters out of 5955258
+ 731887 words of memory out of 5000000
+ 40936 multiletter control sequences out of 15000+600000
+ 612480 words of font info for 74 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  60i,17n,60p,1003b,614s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2020/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2020/texmf-dist/fonts/type1/typoland/carlito/Carlito-Bold.pfb><c:/texlive/2020/texmf-dist/fonts/type1/typoland/carlito/Carlito.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
-Output written on "d:/Documents/GitHub Repositories/cv/cv.pdf" (1 page, 768390 bytes).
+{c:/texlive/2020/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesometwo.enc}{c:/texlive/2020/texmf-dist/fonts/enc/dvips/lm/lm-ec.enc}<c:/texlive/2020/texmf-dist/fonts/type1/typoland/carlito/Carlito-Bold.pfb><c:/texlive/2020/texmf-dist/fonts/type1/typoland/carlito/Carlito.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmss17.pfb><c:/texlive/2020/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb>
+Output written on "d:/Documents/GitHub Repositories/cv/cv.pdf" (1 page, 768615 bytes).
 PDF statistics:
- 45 PDF objects out of 1000 (max. 8388607)
- 34 compressed objects within 1 object stream
+ 48 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  2 named destinations out of 1000 (max. 500000)
  2066 words of extra memory for PDF output out of 10000 (max. 10000000)
 
