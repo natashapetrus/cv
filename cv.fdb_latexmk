@@ -1,6 +1,6 @@
 # Fdb version 3
-["pdflatex"] 1633759962 "d:/Documents/GitHub Repositories/cv/cv.tex" "d:/Documents/GitHub Repositories/cv/cv.pdf" "cv" 1633759963
-  "assets/images/profile.png" 1600753472 540812 be6d8b32ab877e937572ac5b1ddd2f2c ""
+["pdflatex"] 1712224268 "d:/Documents/GitHub Repositories/cv/cv.tex" "d:/Documents/GitHub Repositories/cv/cv.pdf" "cv" 1712224274
+  "assets/images/profile1.png" 1712224095 1822717 9d0b7ac17cbc5b8704adc8de1d71b5c1 ""
   "c:/texlive/2020/texmf-dist/fonts/enc/dvips/carlito/crlt_ynpzot.enc" 1600759520 3095 534643e1ce5e5b89e4b95a9cbbe1a3ef ""
   "c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomeone.enc" 1600760461 1687 f004baecce60175c6453d0e3f808cf20 ""
   "c:/texlive/2020/texmf-dist/fonts/enc/dvips/fontawesome/fontawesomethree.enc" 1600760461 2437 443c81fb50993bacedc5f9a206c322b0 ""
@@ -219,15 +219,15 @@
   "c:/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1600763164 4943603 dfb73aa11fc064a61906b18df1e4711d ""
   "c:/texlive/2020/texmf-var/web2c/pdftex/pdflatex.fmt" 1600763194 1210236 f2eef12cd78d16206677cacea5f75e51 ""
   "c:/texlive/2020/texmf.cnf" 1600763151 673 4ae7b2f49cee444c5343a45b5d0f169c ""
-  "cv.aux" 1633759963 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
-  "cv.out" 1633759963 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "cv.tex" 1633759961 15161 30a6c796a95d5335179deb4596bdf12b ""
-  "d:/Documents/GitHub Repositories/cv/cv.aux" 1633759963 662 b2b94621371df8d9296b8bf5bec1b851 ""
-  "d:/Documents/GitHub Repositories/cv/cv.tex" 1633759961 15161 30a6c796a95d5335179deb4596bdf12b ""
+  "cv.aux" 1712224270 662 b2b94621371df8d9296b8bf5bec1b851 "pdflatex"
+  "cv.out" 1712224269 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "cv.tex" 1712224273 15175 252ae2919dd213ec9d0e1377597f1fa7 ""
+  "d:/Documents/GitHub Repositories/cv/cv.aux" 1712224270 662 b2b94621371df8d9296b8bf5bec1b851 ""
+  "d:/Documents/GitHub Repositories/cv/cv.tex" 1712224273 15175 252ae2919dd213ec9d0e1377597f1fa7 ""
   (generated)
-  "d:/Documents/GitHub Repositories/cv/cv.log"
-  "cv.aux"
-  "cv.pdf"
-  "d:/Documents/GitHub Repositories/cv/cv.pdf"
   "cv.log"
   "cv.out"
+  "cv.pdf"
+  "cv.aux"
+  "d:/Documents/GitHub Repositories/cv/cv.log"
+  "d:/Documents/GitHub Repositories/cv/cv.pdf"
